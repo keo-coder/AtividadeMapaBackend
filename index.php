@@ -1,6 +1,6 @@
 <?php
 	include("dados.php");
-	//var_dump($tutoriais);
+	
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
