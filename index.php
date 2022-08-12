@@ -1,6 +1,5 @@
 <?php
 	include("dados.php");
-	
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
