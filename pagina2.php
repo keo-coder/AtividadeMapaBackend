@@ -1,6 +1,6 @@
 <?php
 	include("dados.php");
-	//var_dump($tutoriais);//utilizei para testar o conteúdo recebido
+	
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
